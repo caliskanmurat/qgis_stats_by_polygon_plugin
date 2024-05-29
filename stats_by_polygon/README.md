@@ -16,14 +16,14 @@ With this plugin, it is possible to split raster files into equally sized chunks
     <td><img width="225" src="../images/image_4.png"></td>
   </tr>
   <tr>
-    <td><img width="225" src="../images/raster_chunk_3.PNG"></td>
-    <td><img width="225" src="../images/raster_chunk_4.PNG"></td>
+    <td><img width="225" src="../images/band_1.png"></td>
+    <td><img width="225" src="../images/band_12.png"></td>
   </tr>  
   
 </table>
 
 <table style="border-collapse: collapse; border:1px solid red;" cellpadding="0" cellspacing="0" >
   <tr>
-    <td><img width="950" src="../images/overview.PNG"></td>
+    <td><img width="950" src="../images/legend.png"></td>
   </tr>  
 </table>
