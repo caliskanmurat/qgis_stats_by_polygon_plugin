@@ -5,9 +5,10 @@ The pictures below ( *Band 1, Band 2, ..., Band 12* ) illustrates the **_NDVI_**
 The line plot graphs show the aggregated (*min, max, mean, median and std.dev.*) NDVI values of these bands based on selected polygons.
 
 <br/>
+
+For creating these plots, a **_raster with multiple bands_** and a **_polygon_** layer with same CRS is needed. Bands of the raster is used for the plot. If **_multiple rasters_** exist, they can be combined into **_Virtual Raster_** and thus one raster with multiple bands can be created.
+
 <br/>
-For creating these plots, a **raster with multiple bands** and a **polygon** layer with same CRS is needed. Each band of the raster is used for the plot. If seperate rasters are
-<img width="20" src="./icon.png">
 
 <table>
   <tr>
@@ -29,8 +30,14 @@ For creating these plots, a **raster with multiple bands** and a **polygon** lay
 
 <table>
     <tr>
-    <td colspan="2"><img width="475" src="../images/image_2.png"><br/>Line Plot for Mean Value of Selected Polygons</td>
-    <td colspan="2"><img width="475" src="../images/image_3.png"><br/>Line Plot for Cumulative Mean Value of Selected Polygons</td>
+      <td colspan="2"><img width="475" src="../images/image_2.png"><br/>Line Plot for Mean Value of Selected Polygons</td>
+      <td colspan="2"><img width="475" src="../images/image_3.png"><br/>Line Plot for Cumulative Mean Value of Selected Polygons</td>
   </tr>
 </table>
+
+<br/>
+
+
+
+<img width="20" src="./icon.png">
 
