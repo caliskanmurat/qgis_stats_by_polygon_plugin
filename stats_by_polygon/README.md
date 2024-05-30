@@ -6,7 +6,7 @@ The line plot graphs show the aggregated (*min, max, mean, median and std.dev.*)
 
 <br/>
 
-For creating these plots, a **_raster with multiple bands_** and a **_polygon_** layer with same CRS is needed. Bands of the raster is used for the plot. If **_multiple rasters_** exist, they can be combined into **_Virtual Raster_** and thus one raster with multiple bands can be created.
+For creating these plots, a **_raster with multiple bands_** and a **_polygon_** layer with same ***CRS*** is needed. Bands of the raster is used for the plot. If **_multiple rasters_** exist, they can be combined into **_Virtual Raster_** and thus one raster with multiple bands can be created.
 
 <br/>
 
