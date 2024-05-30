@@ -1,7 +1,7 @@
 # QGIS Stats by Polygon Plugin
 
 With this plugin, it is possible to create line plots using raster band values based on selected polygon.<br/><br/>
-The pictures below ( *Band 1, Band 2, ..., Band 12* ) illustrates the **_NDVI_** values of an area for given time period.<br/>
+The figures below ( *Band 1, Band 2, ..., Band 12* ) illustrates the **_NDVI_** values of an area for given time period.<br/>
 The line plot graphs show the aggregated (*min, max, mean, median and std.dev.*) NDVI values of these bands based on selected polygons.
 
 <br/>
@@ -40,7 +40,16 @@ For creating these plots, a **_raster with multiple bands_** and a **_polygon_**
 ## Instractions <br/>
 * Select one or more polygon,<br/>
 * Click  <img width="20" src="./icon.png">  icon<br/>
-* If selected 
+* If selected polygons is changed ***REFRESH*** button can be used to refresh the graph.
+
+<br/>
+<br/>
+
+> [!NOTE]
+> The raster and polygon data that used to create the figures above can be found in [sample_data folder](https://github.com/caliskanmurat/qgis_stats_by_polygon_plugin/tree/main/sample_data) <br/>
+> The raster data here is prepared using [Google Earth Engine](https://earthengine.google.com/) platform and polygons created usi.
+
+
 
 
 
