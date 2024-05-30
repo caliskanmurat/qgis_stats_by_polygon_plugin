@@ -1,12 +1,13 @@
 # QGIS Stats by Polygon Plugin
 
-With this plugin, it is possible to create line plots using raster band values based on selected polygon.<br/>
-**As an instance**, the pictures below ( *Band 1, Band 2, ..., Band 12* ) illustrates the **_NDVI_** values of an area for given time period.<br/>
-The graphs shows 
+With this plugin, it is possible to create line plots using raster band values based on selected polygon.<br/><br/>
+The pictures below ( *Band 1, Band 2, ..., Band 12* ) illustrates the **_NDVI_** values of an area for given time period.<br/>
+The line plot graphs show the aggregated (*min, max, mean, median and std.dev.*) NDVI values of these bands based on selected polygons.
+
 <br/>
 <br/>
-
-
+For creating these plots, a **raster with multiple bands** and a **polygon** layer with same CRS is needed. Each band of the raster is used for the plot. If seperate rasters are
+<img width="20" src="./icon.png">
 
 <table>
   <tr>
@@ -19,11 +20,13 @@ The graphs shows
     <td><img width="225" src="../images/band_9.png"><br/>Band 9 (Jan2024)</td>
     <td><img width="225" src="../images/band_12.png"><br/>Band 11 (Mar2024)</td>
     <td><img width="225" src="../images/band_12.png"><br/>Band 12 (Apr2024)</td>
-    <td><img width="225" height="200" src="../images/legend.png"></td>
+    <td><img width="225" height="175" src="../images/legend.png">Legend</td>
   </tr> 
 </table>
+
 <br/>
 <br/>
+
 <table>
     <tr>
     <td colspan="2"><img width="475" src="../images/image_2.png"><br/>Line Plot for Mean Value of Selected Polygons</td>
