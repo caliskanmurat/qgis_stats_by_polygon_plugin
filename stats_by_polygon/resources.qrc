@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/stats_by_polygon" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
