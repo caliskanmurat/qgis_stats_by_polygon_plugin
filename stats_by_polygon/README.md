@@ -37,7 +37,7 @@ For creating these plots, a **_raster with multiple bands_** and a **_polygon_**
 
 <br/>
 
-## Instractions <br/>
+## Instructions <br/>
 * Select one or more polygon,<br/>
 * Click  <img width="20" src="./icon.png">  icon,<br/>
 * If selected polygons are changed ***REFRESH*** button can be used to refresh the graph.
