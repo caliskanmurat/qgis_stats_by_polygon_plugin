@@ -12,16 +12,16 @@ For creating these plots, a **_raster with multiple bands_** and a **_polygon_**
 
 <table>
   <tr>
-    <td><img width="225" src="../images/band_1.png"><br/>Band 1 (May2023)</td>
-    <td><img width="225" src="../images/band_3.png"><br/>Band 3 (Jul2023)</td>
-    <td><img width="225" src="../images/band_5.png"><br/>Band 5 (Sep2023)</td>
-    <td><img width="225" src="../images/band_7.png"><br/>Band 7 (Nov2023)</td>
+    <td><img width="225" src="./images/band_1.png"><br/>Band 1 (May2023)</td>
+    <td><img width="225" src="./images/band_3.png"><br/>Band 3 (Jul2023)</td>
+    <td><img width="225" src="./images/band_5.png"><br/>Band 5 (Sep2023)</td>
+    <td><img width="225" src="./images/band_7.png"><br/>Band 7 (Nov2023)</td>
   </tr>
   <tr>    
-    <td><img width="225" src="../images/band_9.png"><br/>Band 9 (Jan2024)</td>
-    <td><img width="225" src="../images/band_12.png"><br/>Band 11 (Mar2024)</td>
-    <td><img width="225" src="../images/band_12.png"><br/>Band 12 (Apr2024)</td>
-    <td><img width="225" height="175" src="../images/legend.png">Legend</td>
+    <td><img width="225" src="./images/band_9.png"><br/>Band 9 (Jan2024)</td>
+    <td><img width="225" src="./images/band_12.png"><br/>Band 11 (Mar2024)</td>
+    <td><img width="225" src="./images/band_12.png"><br/>Band 12 (Apr2024)</td>
+    <td><img width="225" height="175" src="./images/legend.png">Legend</td>
   </tr> 
 </table>
 
@@ -30,8 +30,8 @@ For creating these plots, a **_raster with multiple bands_** and a **_polygon_**
 
 <table>
     <tr>
-      <td colspan="2"><img width="475" src="../images/image_2.png"><br/>Line Plot for Mean Value of Selected Polygons</td>
-      <td colspan="2"><img width="475" src="../images/image_3.png"><br/>Line Plot for Cumulative Mean Value of Selected Polygons</td>
+      <td colspan="2"><img width="475" src="./images/image_2.png"><br/>Line Plot for Mean Value of Selected Polygons</td>
+      <td colspan="2"><img width="475" src="./images/image_3.png"><br/>Line Plot for Cumulative Mean Value of Selected Polygons</td>
   </tr>
 </table>
 
